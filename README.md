@@ -78,4 +78,6 @@ For full list of dependencies see requirements.txt file.
 ## Commentaries
 
 - The Test Suite doesn't cover all posible scenarios. It mainly cover most important points and the idea was to show my skills using different test tools and logic, like patch, mock, etc. This was because of the time constraint.
+- Git correct usage was not used as it was not the main goal in the project description. The repo mainly contains the whole ptoject as a Initial commit.
+- Some details may have scape the current project because of the constraints in the challenge. The project can be improved in many ways.
 
