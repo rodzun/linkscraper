@@ -21,7 +21,10 @@ This is a simple web scraper API that allows users to add a URL to a web page an
 ## Installation
 
 1. Clone this repository to your local machine.
-2. Install the required dependencies using `pip install -r requirements.txt`.
+    ```
+    $ git clone https://github.com/rodzun/linkscraper.git
+    ```
+2. Install the required dependencies using `pip install -r requirements.txt` using a virtual environment.
 3. Run migrations using `python manage.py migrate`.
 4. Start the server using `python manage.py runserver`.
 5. Endpoints:
